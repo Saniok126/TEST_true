@@ -1,0 +1,11 @@
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\bin\Debug\netcoreapp2.0\TEST_true.deps.json
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\bin\Debug\netcoreapp2.0\TEST_true.runtimeconfig.json
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\bin\Debug\netcoreapp2.0\TEST_true.runtimeconfig.dev.json
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\bin\Debug\netcoreapp2.0\TEST_true.dll
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\bin\Debug\netcoreapp2.0\TEST_true.pdb
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\obj\Debug\netcoreapp2.0\TEST_true.csprojResolveAssemblyReference.cache
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\obj\Debug\netcoreapp2.0\TEST_true.csproj.CoreCompileInputs.cache
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\obj\Debug\netcoreapp2.0\TEST_true.AssemblyInfoInputs.cache
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\obj\Debug\netcoreapp2.0\TEST_true.AssemblyInfo.cs
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\obj\Debug\netcoreapp2.0\TEST_true.dll
+D:\Users\Saniok\source\repos\TEST_true\TEST_true\obj\Debug\netcoreapp2.0\TEST_true.pdb

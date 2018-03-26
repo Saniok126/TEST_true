@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+<head>
+    <title>Посты</title>
+</head>
+<body>
+
+    <table>
+
+        @foreach (var post in Model)
+        {
+            <td><h3>Пост</h3></td>
+            <tr>
+                <td>Оглавление</td>
+                <td>Автор  </td>
+                <td>Текст  </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@post.name</td>
+                <td>@post.author</td>
+                <td>@post.text</td>
+            </tr>
+
+            <td><h3> Комментарии</h3></td>
+            <tr>
+
+                <td>Автор  </td>
+                <td>Текст  </td>
+                <td></td>
+            </tr>
+            @foreach (var comment in post.comments)
+            {
+                <tr>
+                    <td>@comment.author</td>
+                    <td>@comment.text</td>
+                </tr>
+
+            }
+
+        }
+    </table>
+    <td><a href="~/Home/About">Посмотреть посты без комментариев</a></td>
+</body>
+</html>

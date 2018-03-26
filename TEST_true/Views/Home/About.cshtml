@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+    <title>Посты</title>
+</head>
+<body>
+
+    <table>
+
+        @foreach (var post in Model)
+        {
+            <td><h3>Пост</h3></td>
+            <tr>
+                <td>Оглавление</td>
+                <td>Автор  </td>
+                <td>Текст  </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@post.name</td>
+                <td>@post.author</td>
+                <td>@post.text</td>
+            </tr>
+
+         
+
+        }
+    </table>
+   
+</body>
+</html>
